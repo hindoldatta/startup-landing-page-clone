@@ -8,11 +8,10 @@ body {
     background-size: 1880px 1160px;
 }
 
-
- .logo {
-float: left;
-width: 70px;
-padding: 22px 5px 2px 5px;
+.logo {
+    float: left;
+    width: 70px;
+    padding: 22px 5px 2px 5px;
 }
 
 ul {
@@ -20,16 +19,15 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-
 }
 
 li {
     float: right;
     display: inline;
-     padding: 22px 5px 2px 5px;
+    padding: 22px 5px 2px 5px;
 }
 
-a{
+a {
     display: block;
     width: 110px;
     background-color: #fff;
@@ -55,10 +53,10 @@ a{
 }
 
 .links{
-font-family: 'Roboto', sans-serif;
-font-size: 16px;
-color: #838994;
-letter-spacing: 0.03em;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #838994;
+    letter-spacing: 0.03em;
 }
 
  h1 {
@@ -74,9 +72,9 @@ h3  {
     text-align: center;
     font-weight: 300;
     font-family: Roboto;
-    }
+}
 
-    h4  {
+h4  {
     color: white;
     text-align: center;
     font-weight: 200;
@@ -87,7 +85,7 @@ h3  {
     margin-right: auto;
     font-family: Roboto;
     font-weight: bold;
-    }
+}
 
     .big-button {
     text-shadow: none;
